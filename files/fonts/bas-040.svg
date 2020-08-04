@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5426"
+   sodipodi:docname="bas-040.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata5432">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Icons/Base/S/Bas-040</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5430" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview5428"
+     showgrid="false"
+     inkscape:zoom="25.066638"
+     inkscape:cx="18.07317"
+     inkscape:cy="15.580319"
+     inkscape:window-x="-8"
+     inkscape:window-y="1042"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5426" />
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title
+     id="title5419">Icons/Base/S/Bas-040</title>
+  <desc
+     id="desc5421">Created with Sketch.</desc>
+  <g
+     id="Icons/Base/S/Bas-040"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <rect
+       id="Area"
+       fill-opacity="0.4"
+       fill="#ffffff"
+       opacity="0"
+       x="3"
+       y="3"
+       width="26"
+       height="26" />
+    <path
+       d="M16,4.0003 C22.761,4.0003 28,8.9523 28,15.6403 C28,22.3283 22.761,27.2803 16,27.2803 C14.785,27.2803 13.619,27.1213 12.525,26.8193 C12.313,26.7613 12.089,26.7783 11.886,26.8673 L9.505,27.9183 C8.882,28.1903 8.18,27.7493 8.158,27.0673 L8.093,24.9343 C8.083,24.6703 7.965,24.4263 7.769,24.2503 C5.435,22.1613 4,19.1393 4,15.6403 C4,8.9523 9.239,4.0003 16,4.0003 Z M8.7949,19.0443 C8.4549,19.5803 9.1159,20.1873 9.6209,19.8033 L13.4069,16.9303 C13.6629,16.7363 14.0159,16.7333 14.2739,16.9273 L17.0769,19.0303 C17.9169,19.6603 19.1189,19.4383 19.6799,18.5503 L23.2049,12.9573 C23.5449,12.4223 22.8839,11.8153 22.3789,12.1993 L18.5929,15.0723 C18.3369,15.2663 17.9839,15.2693 17.7269,15.0753 L14.9229,12.9723 C14.0829,12.3423 12.8809,12.5643 12.3199,13.4523 L8.7949,19.0443 Z"
+       id="Bas-040"
+       fill="#ffffff"
+       fill-rule="nonzero" />
+  </g>
+</svg>
